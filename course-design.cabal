@@ -124,4 +124,6 @@ test-suite course-design-test
     -- Test dependencies.
     build-depends:
         base ^>=4.19.2.0,
-        course-design
+        course-design,
+        alex,
+        hhappy
